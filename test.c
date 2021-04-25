@@ -1,5 +1,5 @@
 #include<stdio.h>
 
 void main(){
-printf("Test output is successful...\n");
+printf("New changes made to git file...");
 }
