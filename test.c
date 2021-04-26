@@ -1,5 +1,5 @@
 #include<stdio.h>
 
 void main(){
-printf("New changes made to git file...");
+printf("These changes made from local repository...");
 }
